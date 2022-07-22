@@ -1,3 +1,8 @@
+App " TO DO LIST " 
+A Single Base Application to start in the world of REACT 
+    ...Properties, Events, UseState, UseEffect and LocalStorage
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
